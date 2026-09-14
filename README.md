@@ -2,6 +2,8 @@
 
 <img src="assets/magnexis-logo.png" alt="Magnexis logo" width="120">
 
+<img src="assets/magnexis-quantum-logo.png" alt="Magnexis Quantum program emblem" width="120">
+
 [![Site](https://img.shields.io/badge/site-GitHub%20Pages-222?logo=githubpages&logoColor=white)](https://theworker02.github.io/magnexis-quantum/)
 [![Access requests](https://img.shields.io/badge/access-GitHub%20Issues-155EEF?logo=github)](https://github.com/theworker02/magnexis-quantum/issues/new/choose)
 [![Information site](https://img.shields.io/badge/type-static%20information%20site-0E1C35)](https://github.com/theworker02/magnexis-quantum)
@@ -77,6 +79,7 @@ This site is intentionally public-facing and informational. Do not add private p
 ## Release status
 
 `v1.0.0` is the initial GitHub Pages information-site release. It provides a lightweight public program overview and a clear, tracked route for prospective manufacturing partners to request access.
+
 
 
 
