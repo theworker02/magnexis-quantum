@@ -11,7 +11,7 @@ Magnexis Quantum is an independent engineering research program exploring carefu
 
 This repository is the public information site for the program. It is designed for GitHub Pages and contains no private engineering plans, controlled drawings, manufacturing files, account system, document-delivery backend, credentials, or access-controlled material.
 
-## Request manufacturer material access
+## License`r`n`r`nThis repository is proprietary and all rights are reserved. See [LICENSE](LICENSE) for the terms and contact [matthewlooney5@gmail.com](mailto:matthewlooney5@gmail.com) for written permission or licensing inquiries.`r`n`r`n## Request manufacturer material access
 
 Use a **GitHub Issue** to request consideration for access to private partner material. Issues are the preferred route because they are tracked, reviewed sooner, and receive more focused consideration. GitHub Discussions are available for general questions or an initial conversation.
 
@@ -77,6 +77,7 @@ This site is intentionally public-facing and informational. Do not add private p
 ## Release status
 
 `v1.0.0` is the initial GitHub Pages information-site release. It provides a lightweight public program overview and a clear, tracked route for prospective manufacturing partners to request access.
+
 
 
 
