@@ -1,0 +1,27 @@
+name: Manufacturing material access request
+description: Request consideration for private Magnexis Quantum materials.
+title: "Manufacturing access request: "
+labels: ["access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: "Issues are the preferred request path. Do not include confidential, credential, or personal-identification material."
+  - type: input
+    id: organization
+    attributes: {label: Organization or professional role}
+    validations: {required: true}
+  - type: textarea
+    id: capability
+    attributes: {label: Relevant capability, description: "Describe relevant manufacturing, fabrication, laboratory, supplier, installation, or review experience."}
+    validations: {required: true}
+  - type: textarea
+    id: scope
+    attributes: {label: Intended evaluation or partnership scope}
+    validations: {required: true}
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand shared material is proposal-level and does not authorize manufacture or operation.
+          required: true

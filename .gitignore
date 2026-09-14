@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+# Local legacy portal files intentionally remain untracked during the static-site transition.
+app/
+cloudflare/
+docs/
+scripts/
+simulation/
+tests/
+.venv/
+runtime/
+test-results/
+tmp/
+__pycache__/
+.pytest_cache/
+qutip_coeffs_1.3/
+ARCHITECTURE.md
+CONTRIBUTING.md
+SECURITY.md
+THIRD_PARTY.md
+constraints.txt
+docker-compose.yml
+Dockerfile
+Launch Magnexis Quantum.cmd
+manage.py
+pytest.ini
+requirements.txt
+.dockerignore
