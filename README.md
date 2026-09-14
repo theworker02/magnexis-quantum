@@ -24,6 +24,8 @@ A strong request explains:
 
 Do not include confidential information, credentials, export-controlled material, or personal-identification data in a public Issue or Discussion.
 
+Manufacturers who prefer to keep their name or early plans out of the public eye can email [matthewlooney5@gmail.com](mailto:matthewlooney5@gmail.com) for a private conversation. We can discuss the proposed manufacturing scope and how appropriate access to the private materials repository may be arranged.
+
 ## Partnership boundary
 
 Private material may be considered for suitable manufacturers, fabrication facilities, laboratories, suppliers, installers, reviewers, and engineering organizations. An invitation is an opportunity to assess a possible collaboration; it is not production authorization.
@@ -75,6 +77,7 @@ This site is intentionally public-facing and informational. Do not add private p
 ## Release status
 
 `v1.0.0` is the initial GitHub Pages information-site release. It provides a lightweight public program overview and a clear, tracked route for prospective manufacturing partners to request access.
+
 
 
 
