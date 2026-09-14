@@ -9,9 +9,15 @@
 
 Magnexis Quantum is an independent engineering research program exploring carefully scoped quantum-computing systems, supporting infrastructure, and the evidence needed to develop them responsibly.
 
+The official program emblem is a Q-centered quantum orbit. The same mark is used by the public information site so the program has one clear visual identity across its technical and partnership materials.
+
 This repository is the public information site for the program. It is designed for GitHub Pages and contains no private engineering plans, controlled drawings, manufacturing files, account system, document-delivery backend, credentials, or access-controlled material.
 
-## License`r`n`r`nThis repository is proprietary and all rights are reserved. See [LICENSE](LICENSE) for the terms and contact [matthewlooney5@gmail.com](mailto:matthewlooney5@gmail.com) for written permission or licensing inquiries.`r`n`r`n## Request manufacturer material access
+## License
+
+This repository is proprietary and all rights are reserved. See [LICENSE](LICENSE) for the terms and contact [matthewlooney5@gmail.com](mailto:matthewlooney5@gmail.com) for written permission or licensing inquiries.
+
+## Request manufacturer material access
 
 Use a **GitHub Issue** to request consideration for access to private partner material. Issues are the preferred route because they are tracked, reviewed sooner, and receive more focused consideration. GitHub Discussions are available for general questions or an initial conversation.
 
