@@ -38,11 +38,11 @@ This project is **proprietary**. Production use, redistribution, and commercial 
 - Relevant manufacturing, fabrication, laboratory, supplier, installation, engineering-review, or validation capability.
 - The intended evaluation or partnership scope.
 - Why the requested material would support that scope.
-- `index.html` Ã¢â‚¬â€ public program and access-request page.
-- `assets/site.css` Ã¢â‚¬â€ responsive local stylesheet.
-- `assets/site.js` Ã¢â‚¬â€ GitHub Issue/Discussion link resolution and custom-domain setting.
-- `.github/ISSUE_TEMPLATE/` Ã¢â‚¬â€ preferred manufacturer-material access request form.
-- `.nojekyll` Ã¢â‚¬â€ serves the static site without Jekyll processing.
+- `index.html` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â public program and access-request page.
+- `assets/site.css` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â responsive local stylesheet.
+- `assets/site.js` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â GitHub Issue/Discussion link resolution and custom-domain setting.
+- `.github/ISSUE_TEMPLATE/` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â preferred manufacturer-material access request form.
+- `.nojekyll` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â serves the static site without Jekyll processing.
 
 ---
 
