@@ -60,7 +60,7 @@ The program is independent. It does not represent a university, grant qualificat
 
 1. Push this repository to GitHub.
 2. Enable **Issues** and **Discussions** in repository settings.
-3. In **Settings â†’ Pages**, select **Deploy from a branch**, choose `main`, then choose `/(root)`.
+3. In **Settings Ã¢â€ â€™ Pages**, select **Deploy from a branch**, choose `main`, then choose `/(root)`.
 4. Wait for GitHub Pages to publish the site.
 5. If a custom domain is used, set `githubRepository` in `assets/site.js` to `owner/repository`. Standard `owner.github.io/repository` URLs are detected automatically.
 
@@ -68,11 +68,11 @@ The structured access-request form is stored at `.github/ISSUE_TEMPLATE/manufact
 
 ## Repository contents
 
-- `index.html` â€” public program and access-request page.
-- `assets/site.css` â€” responsive local stylesheet.
-- `assets/site.js` â€” GitHub Issue/Discussion link resolution and custom-domain setting.
-- `.github/ISSUE_TEMPLATE/` â€” preferred manufacturer-material access request form.
-- `.nojekyll` â€” serves the static site without Jekyll processing.
+- `index.html` Ã¢â‚¬â€ public program and access-request page.
+- `assets/site.css` Ã¢â‚¬â€ responsive local stylesheet.
+- `assets/site.js` Ã¢â‚¬â€ GitHub Issue/Discussion link resolution and custom-domain setting.
+- `.github/ISSUE_TEMPLATE/` Ã¢â‚¬â€ preferred manufacturer-material access request form.
+- `.nojekyll` Ã¢â‚¬â€ serves the static site without Jekyll processing.
 
 ## Local preview
 
@@ -91,3 +91,7 @@ This site is intentionally public-facing and informational. Do not add private p
 ## Release status
 
 `v1.0.0` is the initial GitHub Pages information-site release. It provides a lightweight public program overview and a clear, tracked route for prospective manufacturing partners to request access.
+
+## Acquisition diligence
+
+Buyer-facing diligence materials live in [docs/acquisition/](./docs/acquisition/). Commercial licensing contact path: [COMMERCIAL.md](./COMMERCIAL.md).
