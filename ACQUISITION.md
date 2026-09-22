@@ -1,13 +1,13 @@
-# Acquisition Brief â€” Magnexis Quantum
+# Acquisition Brief Ã¢â‚¬â€ Magnexis Quantum
 
 **Date:** 2026-09-22  
 **Repository:** https://github.com/theworker02/magnexis-quantum  
 **Default branch:** `main`  
 **Primary language:** HTML  
 **Status:** Diligence briefing only. **No acquisition has occurred** by virtue of this file.  
-**License:** Proprietary â€” sale, written commercial license, or completed asset transfer required (see root `LICENSE`).  
+**License:** Proprietary Ã¢â‚¬â€ sale, written commercial license, or completed asset transfer required (see root `LICENSE`).  
 **Valuation:** Not stated.  
-**Contact:** GitHub [@theworker02](https://github.com/theworker02) Â· [thanks.dev/u/gh/theworker02](https://thanks.dev/u/gh/theworker02)
+**Contact:** GitHub [@theworker02](https://github.com/theworker02) Ã‚Â· [thanks.dev/u/gh/theworker02](https://thanks.dev/u/gh/theworker02)
 
 > Cloning or forking this repository does **not** grant production, redistribution, SaaS, OEM, or commercial rights.
 
@@ -17,7 +17,7 @@
 
 This project is **proprietary**. Production use, redistribution, and commercial deployment require a written commercial license or completed acquisition. See [LICENSE](./LICENSE) and [ACQUISITION.md](./ACQUISITION.md). Contact [@theworker02](https://github.com/theworker02). <img src="assets/magnexis-quantum-logo.png" alt="Magnexis Quantum program emblem" width="120"> Magnexis Quantum is an independent engineering research program exploring carefully scoped quantum-computing systems, supporting infrastructure, and the evidence needed to develop them responsibly.
 
-**Why a buyer cares:** Magnexis Quantum packages transferable product IP â€” source, docs, in-repo brand assets, and a diligence room under `docs/acquisition/` â€” under a clear proprietary posture so diligence can proceed without mistaking the repo for open source.
+**Why a buyer cares:** Magnexis Quantum packages transferable product IP Ã¢â‚¬â€ source, docs, in-repo brand assets, and a diligence room under `acquisition/` Ã¢â‚¬â€ under a clear proprietary posture so diligence can proceed without mistaking the repo for open source.
 
 ---
 
@@ -28,9 +28,9 @@ This project is **proprietary**. Production use, redistribution, and commercial 
 | Product | Magnexis Quantum |
 | Repo | `theworker02/magnexis-quantum` |
 | Language | HTML |
-| Open source? | **No** â€” proprietary |
+| Open source? | **No** Ã¢â‚¬â€ proprietary |
 | Rightsholder | theworker02 |
-| Diligence pack | `docs/acquisition/` |
+| Diligence pack | `acquisition/` |
 
 ### Capability highlights (from current materials)
 
@@ -38,11 +38,11 @@ This project is **proprietary**. Production use, redistribution, and commercial 
 - Relevant manufacturing, fabrication, laboratory, supplier, installation, engineering-review, or validation capability.
 - The intended evaluation or partnership scope.
 - Why the requested material would support that scope.
-- `index.html` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â public program and access-request page.
-- `assets/site.css` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â responsive local stylesheet.
-- `assets/site.js` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â GitHub Issue/Discussion link resolution and custom-domain setting.
-- `.github/ISSUE_TEMPLATE/` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â preferred manufacturer-material access request form.
-- `.nojekyll` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â serves the static site without Jekyll processing.
+- `index.html` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â public program and access-request page.
+- `assets/site.css` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â responsive local stylesheet.
+- `assets/site.js` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â GitHub Issue/Discussion link resolution and custom-domain setting.
+- `.github/ISSUE_TEMPLATE/` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â preferred manufacturer-material access request form.
+- `.nojekyll` ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â serves the static site without Jekyll processing.
 
 ---
 
@@ -60,7 +60,7 @@ Typical transferable surfaces:
 
 - Source tree and build/test scripts present in-repo
 - Documentation and design notes
-- Acquisition / diligence markdown under `docs/acquisition/`
+- Acquisition / diligence markdown under `acquisition/`
 - Branding assets committed to the repository (if any)
 
 ---
@@ -75,7 +75,7 @@ python -m http.server 8000
 ```
 ```
 
-Extended evaluation: `docs/acquisition/BUYER_EVALUATION.md`. Written NDA / evaluation grants may be required for private materials.
+Extended evaluation: `acquisition/BUYER_EVALUATION.md`. Written NDA / evaluation grants may be required for private materials.
 
 ---
 
@@ -99,7 +99,7 @@ Subject to definitive schedules:
 | Non-exclusive commercial license | Deploy/run under seat or environment terms |
 | Exclusive field-of-use license | Buyer wants exclusivity; seller may retain entity |
 | Asset / IP assignment | Buyer wants ownership of Materials outright |
-| OEM / redistribution | Separate agreement â€” not implied here |
+| OEM / redistribution | Separate agreement Ã¢â‚¬â€ not implied here |
 
 Commercial terms (price, earnouts, escrow) are negotiated under NDA with counsel.
 
@@ -108,7 +108,7 @@ Commercial terms (price, earnouts, escrow) are negotiated under NDA with counsel
 ## 8. Buyer diligence checklist
 
 - [ ] Confirm Rightsholder identity and authority to sell/license
-- [ ] Inventory Materials (`docs/acquisition/ASSET_INVENTORY.md`)
+- [ ] Inventory Materials (`acquisition/ASSET_INVENTORY.md`)
 - [ ] Review IP posture (`IP_PROVENANCE.md`) and dependencies (`DEPENDENCY_INVENTORY.md`)
 - [ ] Run evaluation script (`BUYER_EVALUATION.md`)
 - [ ] Review risks (`RISK_REGISTER.md`)
@@ -121,9 +121,9 @@ Commercial terms (price, earnouts, escrow) are negotiated under NDA with counsel
 
 | Document | Purpose |
 |----------|---------|
-| `LICENSE` | Proprietary â€” no default grant |
-| `docs/acquisition/README.md` | Data-room index |
-| `docs/acquisition/EXECUTIVE_SUMMARY.md` | One-page thesis |
+| `LICENSE` | Proprietary Ã¢â‚¬â€ no default grant |
+| `acquisition/README.md` | Data-room index |
+| `acquisition/EXECUTIVE_SUMMARY.md` | One-page thesis |
 | `README.md` | Product overview |
 | `SECURITY.md` | Vulnerability reporting |
 | `COMMERCIAL.md` | Licensing contact path |
@@ -137,4 +137,4 @@ This package is informational and **does not** create a binding offer, grant of 
 
 ---
 
-*Document version: 2.0.0 / 2026-09-22 Â· Classification: acquisition briefing*
+*Document version: 2.0.0 / 2026-09-22 Ã‚Â· Classification: acquisition briefing*
