@@ -1,5 +1,13 @@
 # Magnexis Quantum
 
+
+---
+
+## License & acquisition
+
+This project is **proprietary**. Production use, redistribution, and commercial deployment require a written commercial license or completed acquisition. See [LICENSE](./LICENSE) and [ACQUISITION.md](./ACQUISITION.md). Contact [@theworker02](https://github.com/theworker02).
+
+
 <img src="assets/magnexis-quantum-logo.png" alt="Magnexis Quantum program emblem" width="120">
 
 [![Site](https://img.shields.io/badge/site-GitHub%20Pages-222?logo=githubpages&logoColor=white)](https://theworker02.github.io/magnexis-quantum/)
@@ -52,7 +60,7 @@ The program is independent. It does not represent a university, grant qualificat
 
 1. Push this repository to GitHub.
 2. Enable **Issues** and **Discussions** in repository settings.
-3. In **Settings → Pages**, select **Deploy from a branch**, choose `main`, then choose `/(root)`.
+3. In **Settings â†’ Pages**, select **Deploy from a branch**, choose `main`, then choose `/(root)`.
 4. Wait for GitHub Pages to publish the site.
 5. If a custom domain is used, set `githubRepository` in `assets/site.js` to `owner/repository`. Standard `owner.github.io/repository` URLs are detected automatically.
 
@@ -60,11 +68,11 @@ The structured access-request form is stored at `.github/ISSUE_TEMPLATE/manufact
 
 ## Repository contents
 
-- `index.html` — public program and access-request page.
-- `assets/site.css` — responsive local stylesheet.
-- `assets/site.js` — GitHub Issue/Discussion link resolution and custom-domain setting.
-- `.github/ISSUE_TEMPLATE/` — preferred manufacturer-material access request form.
-- `.nojekyll` — serves the static site without Jekyll processing.
+- `index.html` â€” public program and access-request page.
+- `assets/site.css` â€” responsive local stylesheet.
+- `assets/site.js` â€” GitHub Issue/Discussion link resolution and custom-domain setting.
+- `.github/ISSUE_TEMPLATE/` â€” preferred manufacturer-material access request form.
+- `.nojekyll` â€” serves the static site without Jekyll processing.
 
 ## Local preview
 
@@ -83,10 +91,3 @@ This site is intentionally public-facing and informational. Do not add private p
 ## Release status
 
 `v1.0.0` is the initial GitHub Pages information-site release. It provides a lightweight public program overview and a clear, tracked route for prospective manufacturing partners to request access.
-
-
-
-
-
-
-
